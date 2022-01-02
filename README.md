@@ -31,18 +31,18 @@ pay attention:
 
 2.link for trained models: https://pan.baidu.com/s/160gPWagDYmNngFXB4HCVuQ pwd:imhj , please download the pths to ./GestureBackend/models
 
-  ssd.pth: original SSD
+    ssd.pth: original SSD
   
-  ssd_x.pth: SSD + CBAM
+    ssd_x.pth: SSD + CBAM
   
-  ssd_x2.pth(default): SSD + CBAM + feature fusion
+    ssd_x2.pth(default): SSD + CBAM + feature fusion
   
 ======================================================
 
 run:
 
-backend: python main.py
+    backend: python main.py
 
-frontend: npm run dev (in dir 'frontend')
+    frontend: npm run dev (in dir 'frontend')
 
-frontend default url: http://localhost:8080
+    frontend default url: http://localhost:8080
