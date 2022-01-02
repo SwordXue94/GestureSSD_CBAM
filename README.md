@@ -43,6 +43,6 @@ run:
 
 backend: python main.py
 
-frontend: npm run dev (in dir frontend)
+frontend: npm run dev (in dir 'frontend')
 
 frontend default url: http://localhost:8080
