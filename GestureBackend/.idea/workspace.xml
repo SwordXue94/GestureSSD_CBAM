@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="86cd53b1-0ddd-4a09-a439-3c45825eed90" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/eval_all.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/halcon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mytest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mytest_person.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/skin_detect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssd_m.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssd_x.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssd_x2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssd_x3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_m.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/data/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/data/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/voc0712.py" beforeDir="false" afterPath="$PROJECT_DIR$/data/voc0712.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eval.py" beforeDir="false" afterPath="$PROJECT_DIR$/eval.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layers/box_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/layers/box_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layers/modules/multibox_loss.py" beforeDir="false" afterPath="$PROJECT_DIR$/layers/modules/multibox_loss.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssd.py" beforeDir="false" afterPath="$PROJECT_DIR$/ssd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/train.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1r9rk11cHVq67nj9cVZaOygltjW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/main.py" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\projects\hand_detection\SSD" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="SSD" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="sftp://gaoliqing@211.81.55.150:20154/home/gaoliqing/anaconda3/envs/pytorch1.4/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86cd53b1-0ddd-4a09-a439-3c45825eed90" name="Default Changelist" comment="" />
+      <created>1618399285715</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618399285715</updated>
+      <workItem from="1618399290635" duration="3433000" />
+      <workItem from="1618459050193" duration="3787000" />
+      <workItem from="1618535257679" duration="859000" />
+      <workItem from="1618548605873" duration="6415000" />
+      <workItem from="1618900951804" duration="147000" />
+      <workItem from="1618917039771" duration="2485000" />
+      <workItem from="1618968926248" duration="7799000" />
+      <workItem from="1619159264023" duration="996000" />
+      <workItem from="1619444868387" duration="2410000" />
+      <workItem from="1619665008139" duration="4205000" />
+      <workItem from="1620296883857" duration="818000" />
+      <workItem from="1620377918823" duration="3985000" />
+      <workItem from="1620614440339" duration="1196000" />
+      <workItem from="1620702989380" duration="8380000" />
+      <workItem from="1620787207726" duration="10695000" />
+      <workItem from="1620892127072" duration="790000" />
+      <workItem from="1620905949868" duration="2867000" />
+      <workItem from="1620993192003" duration="3893000" />
+      <workItem from="1621152999653" duration="863000" />
+      <workItem from="1621161377044" duration="608000" />
+      <workItem from="1621227287640" duration="1940000" />
+      <workItem from="1621324086880" duration="4624000" />
+      <workItem from="1621348538844" duration="3830000" />
+      <workItem from="1621403057971" duration="13962000" />
+      <workItem from="1621476561746" duration="18618000" />
+      <workItem from="1621516576765" duration="4857000" />
+      <workItem from="1621566612116" duration="2569000" />
+      <workItem from="1621600141320" duration="8104000" />
+      <workItem from="1621648631413" duration="3841000" />
+      <workItem from="1621660269592" duration="9157000" />
+      <workItem from="1621735650694" duration="12572000" />
+      <workItem from="1622096943698" duration="7609000" />
+      <workItem from="1622111803642" duration="981000" />
+      <workItem from="1622210655174" duration="924000" />
+      <workItem from="1622281479152" duration="520000" />
+      <workItem from="1622432319179" duration="2603000" />
+      <workItem from="1622994040402" duration="887000" />
+      <workItem from="1623030849514" duration="462000" />
+      <workItem from="1623160896557" duration="1233000" />
+      <workItem from="1623422330681" duration="3740000" />
+      <workItem from="1623474165607" duration="614000" />
+      <workItem from="1623506635311" duration="2224000" />
+      <workItem from="1623559376531" duration="1678000" />
+      <workItem from="1623741410465" duration="2828000" />
+      <workItem from="1623823228065" duration="1937000" />
+      <workItem from="1624173816262" duration="756000" />
+      <workItem from="1624455311430" duration="1016000" />
+      <workItem from="1625732032176" duration="6958000" />
+      <workItem from="1625789299664" duration="1915000" />
+      <workItem from="1625997257313" duration="3820000" />
+      <workItem from="1626004014960" duration="1177000" />
+      <workItem from="1626014966966" duration="1478000" />
+      <workItem from="1626094469291" duration="1405000" />
+      <workItem from="1626620302502" duration="1659000" />
+      <workItem from="1641042761392" duration="7311000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ssd_x3.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SSD$main.coverage" NAME="main Coverage Results" MODIFIED="1619673920854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SSD$train.coverage" NAME="train Coverage Results" MODIFIED="1620795452813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SSD$mytest_person.coverage" NAME="mytest_person Coverage Results" MODIFIED="1623506923656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SSD$mytest.coverage" NAME="main Coverage Results" MODIFIED="1618976779035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SSD$eval.coverage" NAME="eval Coverage Results" MODIFIED="1618554063446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
